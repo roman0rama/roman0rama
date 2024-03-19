@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roman0rama&show_icons=true&locale=en" alt="roman0rama" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=roman0rama&" alt="roman0rama" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roman0rama&" alt="roman0rama" /></p>
