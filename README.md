@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node and Go**
 
-- 📫 How to reach me **romanzabolotskij0@gmail.com**
+- 📫 How to reach me **banan12.git@senthy.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
