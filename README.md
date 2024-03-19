@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roman0rama&label=Profile%20views&color=0e75b6&style=flat" alt="roman0rama" /> </p>
 
-- 🔭 I’m currently working on [Web Custom NPC Integration](https://custom-npc-web.vercel.app/)
-
-- 🌱 I’m currently learning **Golang and gRPC web-server**
+- 🔭 I’m currently working on something cool!
 
 - 🤝 I’m looking for help with **any project**
 
